@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Html class="bg-black">
+    <Html class="dark:bg-black bg-white">
       <SiteMaintenance />
     </Html>
   </div>
