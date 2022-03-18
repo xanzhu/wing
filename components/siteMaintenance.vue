@@ -4,7 +4,7 @@
           <h1 class="text-5xl font-bold m-0">XANZHU</h1>
       </div>
       <div class="font-thin text-xl">
-         Upgrading website security...
+         Upgrading website security..
       </div>
     </div>
 </template>
