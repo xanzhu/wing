@@ -1,5 +1,5 @@
 <template>
-    <div class="dark:text-light-200 text-black font-sans mt-50 text-center">
+    <div class="font-sans mt-50 text-center text-black dark:text-white">
       <div class="flex items-center justify-center">
           <h1 class="text-5xl font-bold m-0">XANZHU SECURITY</h1>
       </div>

@@ -6,8 +6,8 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "@unocss/nuxt": "^0.29.3",
-    "@unocss/preset-web-fonts": "^0.29.3",
+    "@nuxtjs/color-mode": "^3.0.2",
+    "nuxt-windicss": "^2.2.8",
     "nuxt3": "3.0.0-27459267.f69126e"
   }
 }
