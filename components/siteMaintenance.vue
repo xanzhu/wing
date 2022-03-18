@@ -6,5 +6,8 @@
       <div class="font-thin text-xl">
          Upgrading website security...
       </div>
+      <div class="font-light text-xl">
+        Test line!
+      </div>
     </div>
 </template>
