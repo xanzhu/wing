@@ -6,8 +6,8 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "@unocss/nuxt": "^0.27.2",
-    "@unocss/preset-web-fonts": "^0.27.2",
-    "nuxt3": "latest"
+    "@unocss/nuxt": "^0.29.3",
+    "@unocss/preset-web-fonts": "^0.29.3",
+    "nuxt3": "3.0.0-27459267.f69126e"
   }
 }
